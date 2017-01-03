@@ -1,0 +1,109 @@
+%PDF-1.4
+%цдья
+1 0 obj
+<<
+/Type /Catalog
+/Version /1.4
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/MediaBox [0.0 0.0 1000.0 1000.0]
+/Parent 2 0 R
+/Resources 4 0 R
+/Contents 5 0 R
+>>
+endobj
+4 0 obj
+<<
+/Pattern 6 0 R
+/ColorSpace 7 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 114
+>>
+stream
+/cs1 cs
+0 0 0 /p1 scn
+50 50 400 400 re
+f
+50 750 m
+250 550 l
+450 750 l
+250 950 l
+f
+550 550 m
+950 550 l
+750 950 l
+f
+
+endstream
+endobj
+6 0 obj
+<<
+/p1 8 0 R
+>>
+endobj
+7 0 obj
+<<
+/cs1 [/Pattern /DeviceRGB]
+>>
+endobj
+8 0 obj
+<<
+/Type /Pattern
+/PatternType 1
+/Resources <<
+>>
+/TilingType 1
+/PaintType 2
+/BBox [0.0 0.0 600.0 600.0]
+/XStep 600.0
+/YStep 600.0
+/Matrix [0.125 0.0 0.0 0.125 0.0 0.0]
+/Length 297
+>>
+stream
+ 52 508 m  92 400 l 160 472 l f
+  8 352 m  24 240 l 100 320 l f
+ 44 184 m 124 104 l 160 196 l f
+236 396 m 292 308 l 348 384 l f
+200 488 m 312 524 l 240 592 l f
+280 172 m 272 60  l 360 100 l f
+444 528 m 500 448 l 556 544 l f
+436 308 m 388 220 l 504 220 l f
+488 84  m 560 8   l 592 92  l f
+
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000015 00000 n
+0000000078 00000 n
+0000000135 00000 n
+0000000249 00000 n
+0000000303 00000 n
+0000000470 00000 n
+0000000501 00000 n
+0000000549 00000 n
+trailer
+<<
+/Root 1 0 R
+/ID [<C8D8DE88C7875878B530170A2A93CF7E> <C8D8DE88C7875878B530170A2A93CF7E>]
+/Size 9
+>>
+startxref
+1065
+%%EOF
